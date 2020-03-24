@@ -1,4 +1,6 @@
 # be-the-hero-omnistack
 
-## NodeJS / ReactJS / ReactNative 
 Rocketseat - Omnistack Aplication
+- Backend: NodeJS
+- Frontend: ReactJS
+- Mobile: React Native
